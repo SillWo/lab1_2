@@ -1,0 +1,40 @@
+{
+  "Prod1": {
+    "name": "Стул",
+    "date_of_receipt": "01.01.2023",
+    "count": 10,
+    "material": "Дерево",
+    "dimensions": "50x50x100",
+    "weight": 5
+  },
+  "Prod2": {
+    "name": "Футболка",
+    "date_of_receipt": "15.03.2023",
+    "count": 50,
+    "size": "M",
+    "color": "Синий",
+    "material": "Хлопок"
+  },
+  "Prod3": {
+    "name": "Стол",
+    "date_of_receipt": "20.05.2023",
+    "count": 5,
+    "material": "Стекло",
+    "dimensions": "120x60x75",
+    "weight": 15
+  },
+  "Prod4": {
+    "name": "Джинсы",
+    "date_of_receipt": "10.07.2023",
+    "count": 30,
+    "size": "L",
+    "color": "Черный",
+    "material": "Деним"
+  },
+  "Prod5": {
+    "name": "Книга",
+    "date_of_receipt": "05.09.2023",
+    "count": 100,
+    "date_of_write_off": "10.10.2023"
+  }
+}
