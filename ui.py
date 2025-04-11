@@ -3,6 +3,7 @@ from tkinter import ttk, messagebox, simpledialog
 from models import BaseProduct, Clothing, Furniture
 from validation import ValidationError
 from utils import parse_json, set_write_off_date
+import json
 
 class UI:
     def __init__(self, master, filename):
